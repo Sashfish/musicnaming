@@ -1,2 +1,2 @@
 # musicnaming
-Program grabs attributes of MP3 files and changes the filename 
+Program grabs attributes of MP3 files and changes the filename using taglib#

@@ -1,0 +1,11 @@
+C:\Users\Nick\Desktop\musicname\bin\Debug\netcoreapp2.1\musicname.deps.json
+C:\Users\Nick\Desktop\musicname\bin\Debug\netcoreapp2.1\musicname.runtimeconfig.json
+C:\Users\Nick\Desktop\musicname\bin\Debug\netcoreapp2.1\musicname.runtimeconfig.dev.json
+C:\Users\Nick\Desktop\musicname\bin\Debug\netcoreapp2.1\musicname.dll
+C:\Users\Nick\Desktop\musicname\bin\Debug\netcoreapp2.1\musicname.pdb
+C:\Users\Nick\Desktop\musicname\obj\Debug\netcoreapp2.1\musicname.csprojAssemblyReference.cache
+C:\Users\Nick\Desktop\musicname\obj\Debug\netcoreapp2.1\musicname.csproj.CoreCompileInputs.cache
+C:\Users\Nick\Desktop\musicname\obj\Debug\netcoreapp2.1\musicname.AssemblyInfoInputs.cache
+C:\Users\Nick\Desktop\musicname\obj\Debug\netcoreapp2.1\musicname.AssemblyInfo.cs
+C:\Users\Nick\Desktop\musicname\obj\Debug\netcoreapp2.1\musicname.dll
+C:\Users\Nick\Desktop\musicname\obj\Debug\netcoreapp2.1\musicname.pdb
